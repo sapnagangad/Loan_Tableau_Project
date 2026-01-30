@@ -23,6 +23,7 @@ This project features an interactive **Tableau dashboard** that analyzes **loan 
 - Loan dataset  
 - Project documentation
 
+```
 Loan-Approval-Tableau-Project/
 │
 ├── dataset/
@@ -36,6 +37,7 @@ Loan-Approval-Tableau-Project/
 │   └── credit_score_vs_status.png
 │
 └── README.md
+```
 
 ## 📊 Dashboards
 
