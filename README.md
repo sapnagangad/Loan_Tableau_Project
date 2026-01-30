@@ -2,6 +2,7 @@
 
 ## 🏦 Project Overview
 This project features an interactive **Tableau dashboard** that analyzes **loan data** to evaluate approval trends, repayment behavior, and overall lending performance.
+![Loan Portfolio Overview](https://png.pngtree.com/png-vector/20220705/ourmid/pngtree-searching-business-loan-offer-png-image_5705350.png)
 
 ## 🎯 Objectives
 - Analyze loan applications and approval rates  
